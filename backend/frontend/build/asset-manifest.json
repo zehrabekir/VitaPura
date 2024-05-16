@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.823900b1.chunk.css",
+    "main.js": "/static/js/main.f4531466.chunk.js",
+    "main.js.map": "/static/js/main.f4531466.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4fd8e596.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4fd8e596.js.map",
+    "static/js/2.1649372c.chunk.js": "/static/js/2.1649372c.chunk.js",
+    "static/js/2.1649372c.chunk.js.map": "/static/js/2.1649372c.chunk.js.map",
+    "static/js/3.98ce779b.chunk.js": "/static/js/3.98ce779b.chunk.js",
+    "static/js/3.98ce779b.chunk.js.map": "/static/js/3.98ce779b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.823900b1.chunk.css.map": "/static/css/main.823900b1.chunk.css.map",
+    "static/js/2.1649372c.chunk.js.LICENSE.txt": "/static/js/2.1649372c.chunk.js.LICENSE.txt",
+    "static/media/VITAPURALOGO.cfb795b0.png": "/static/media/VITAPURALOGO.cfb795b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fd8e596.js",
+    "static/js/2.1649372c.chunk.js",
+    "static/css/main.823900b1.chunk.css",
+    "static/js/main.f4531466.chunk.js"
+  ]
+}
