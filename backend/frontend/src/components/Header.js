@@ -25,7 +25,7 @@ function Header() {
                             <img
                                 src={logo}
                                 alt="Site Logo"
-                                style={{ height: '200px', marginRight: '30px' }} // Logonun stilini burada ayarla
+                                style={{ height: '150px', width: 'auto', marginRight: '50px' }} // Logonun stilini burada ayarla
                             />
                             VITAPURA
                         </Navbar.Brand>
@@ -55,6 +55,9 @@ function Header() {
                                 <LinkContainer to='/category/un'>
                                     <NavDropdown.Item>Un</NavDropdown.Item>
                                 </LinkContainer>
+                                <LinkContainer to='/category/kahve'>
+                                    <NavDropdown.Item>Kahve</NavDropdown.Item>
+                                </LinkContainer>
                             </NavDropdown>
                             <NavDropdown title="Fenilketonüri" id="categories-menu">
                                 <LinkContainer to='/category/takviye'>
@@ -63,6 +66,7 @@ function Header() {
                                 <LinkContainer to='/category/paketgida'>
                                     <NavDropdown.Item>Paket Gıda</NavDropdown.Item>
                                 </LinkContainer>
+                                
                                 
                             </NavDropdown>
                             <NavDropdown title="0-1 Yaş" id="categories-menu">
